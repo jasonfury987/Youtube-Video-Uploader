@@ -1,6 +1,7 @@
 A Python script to batch upload videos to YouTube with automatic Shorts detection and customizable metadata.
 
 ⚠️ Important Security Notice ⚠️
+NEED TO CHANGE VARIABLES WITH CHANGE >>>>>>>
 USE YOUR OWN API CREDENTIALS
 The script doesn't contain the OAuth credentials needed. You must:
 
